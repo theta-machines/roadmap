@@ -1,9 +1,7 @@
 # Theta Machines Public Roadmap
-This repository is meant to make our work more transparent by showing where our time is being alloted. It also lets us track issues that might not pertain to a specific project. 
-
-To see this roadmap, head over to the `Projects` tab!
+This repository allows us to track issues specific to our roadmap. To see the roadmap, [head over to its project page](https://github.com/orgs/theta-machines/projects/1).
 
 ## Accuracy Disclaimer
-This repository is a tool to help track our progress throughout development cycles. None of the information (especially dates) are guaranteed to be accurate. 
+Our roadmap is a tool to help track progress throughout development cycles. None of the information is guaranteed to be accurate. 
 
-This is a living roadmap, meaning information is going to change frequently. Deadlines will be missed; projects will get put on the back-burner; some projects might be abandoned altogether. The important thing is that you can tag along while we do our best to build an open industry. 
+The roadmap is a living document, meaning information is going to change frequently. Deadlines will be missed, projects will get put on the back-burner, and some projects might be abandoned altogether. The important thing is that you can tag along while we do our best to build an open industry. 
